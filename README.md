@@ -27,4 +27,5 @@ React ile geliştirilen arayüz
 <img src="https://github.com/omerustunay/employee-system/blob/master/img/6.png" width="75%" height="75%">
 
 Database Tablo Bağlantıları
+
 <img src="https://github.com/omerustunay/employee-system/blob/master/img/7.png" width="75%" height="75%">
