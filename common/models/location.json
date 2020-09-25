@@ -1,0 +1,38 @@
+{
+  "name": "location",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "addres": {
+      "type": "string",
+      "required": true
+    },
+    "postal_code": {
+      "type": "number",
+      "required": true
+    },
+    "city": {
+      "type": "string",
+      "required": true
+    },
+    "country": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

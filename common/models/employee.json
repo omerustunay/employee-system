@@ -1,0 +1,54 @@
+{
+  "name": "employee",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "surname": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "string",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "required": true
+    },
+    "start_date": {
+      "type": "date",
+      "required": true
+    },
+    "salary": {
+      "type": "number",
+      "required": true
+    },
+    "department_id": {
+      "type": "number",
+      "required": true
+    },
+    "title_id": {
+      "type": "number",
+      "required": true
+    },
+    "manager_name": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

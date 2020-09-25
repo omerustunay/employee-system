@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlDS": {
+    "host": "omerustunay.local",
+    "port": 3306,
+    "url": "",
+    "database": "hr_system",
+    "password": "12345678",
+    "name": "mysqlDS",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
