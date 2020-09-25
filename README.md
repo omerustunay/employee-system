@@ -6,9 +6,17 @@ Uygulamanın çalışma akışını aşağıdaki linkten izleyebilirsiniz.
 
 Projenin frontend kodları için [tıklayın.](https://github.com/omerustunay/employee-system-frontend/)
 
+
 Projenin backend kodları için [tıklayın.](https://github.com/omerustunay/employee-system/)
 
+
+Projenin database içerisindeki tabloları dışarı aktardım. Veritabanı ile ilgili sql kodları için [tıklayınız.](https://github.com/omerustunay/employee-system/tree/master/mysql)
+
+-- 
+
 Programın çalışma anındaki videosunu izlemek için [tıklayın.](https://drive.google.com/file/d/1mNMt2CqSEw4dVy3eYlpBvx3XnM3aCdnW/view)
+
+---
 
 ## Çalışan Yönetim Sistemi Ekran Görüntüleri
 
